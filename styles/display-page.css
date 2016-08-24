@@ -1,0 +1,49 @@
+body {
+	font-size: 0;
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.green {
+	width: 50%;
+	height: 200px;
+	border: solid 1px black;
+	background-color: green;	
+	display: inline-block;
+}
+
+.blue {
+	width: 50%;
+	height: 200px;
+	border: solid 1px black;
+	background-color: blue;
+	display: inline-block;
+}
+
+.gray {
+	width: 33.33%;
+	height: 300px;
+	border: solid 1px black;
+	background-color: gray;	
+	display: inline-block;
+}
+
+.black {
+	width: 33.33%;
+	height: 300px;
+	border: solid 1px black;
+	background-color: black;
+	display: inline-block;
+}
+
+.beige {
+	width: 33.33%;
+	height: 300px;
+	border: solid 1px black;
+	background-color: #f3a633;
+	display: inline-block;
+}
