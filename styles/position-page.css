@@ -1,1 +1,36 @@
+nav {
+	background-color: gray;
+	position: relative;
+}
 
+nav li {
+	display: inline-block;
+	border-right: solid 1px black;
+	padding: 0px 5px;
+}
+
+nav img {
+	border-radius: 50%;
+	height: 60px;
+	width: 60px;
+	border: solid 1px black;
+	margin: 5px 5px 5px 60px;
+}
+
+nav ul {
+	position: absolute;
+	left: 100px;
+	bottom: 22%;
+}
+
+body {
+	background-image: url("../images/outerspace_landscape.jpeg");
+	background-size: cover;
+}
+
+.green-box {
+	width: 300px;
+	height: 200px;
+	margin: auto;
+	border: dotted 2px green;
+}

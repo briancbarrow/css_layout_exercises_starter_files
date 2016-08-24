@@ -8,12 +8,15 @@ body {
 	margin-top: 50px;
 }
 
+.inline {
+	display: inline-block;
+}
+
 .green {
 	width: 50%;
 	height: 200px;
 	border: solid 1px black;
-	background-color: green;	
-	display: inline-block;
+	background-color: green;
 }
 
 .blue {
@@ -21,7 +24,6 @@ body {
 	height: 200px;
 	border: solid 1px black;
 	background-color: blue;
-	display: inline-block;
 }
 
 .gray {
@@ -29,7 +31,6 @@ body {
 	height: 300px;
 	border: solid 1px black;
 	background-color: gray;	
-	display: inline-block;
 }
 
 .black {
@@ -37,7 +38,6 @@ body {
 	height: 300px;
 	border: solid 1px black;
 	background-color: black;
-	display: inline-block;
 }
 
 .beige {
@@ -45,5 +45,4 @@ body {
 	height: 300px;
 	border: solid 1px black;
 	background-color: #f3a633;
-	display: inline-block;
 }
